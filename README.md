@@ -13,5 +13,5 @@ What doesn't work:
 
 Quirks:
 - Keyboard has previously taken a while to initialise from boot, and other times just doesn't (though I believe this is fixed, I haven't tested enough to be sure)
-- USB Tethering driver included courtest of [HoRNDIS](https://github.com/jwise/HoRNDIS)
+- USB Tethering driver included courtesy of [HoRNDIS](https://github.com/jwise/HoRNDIS)
 - Unsure if MiniDP-out works, as I have lost my adapter!
