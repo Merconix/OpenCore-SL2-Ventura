@@ -1,5 +1,6 @@
 # OpenCore EFI folder for MacOS 13 Ventura on the Surface Laptop 2 (i5)
 Inspired by [MattKC](https://github.com/itsmattkc/OpenCore-SL3-BigSur/blob/master/README.md)
+
 Made possible by [BigSurface](https://github.com/Xiashangning/BigSurface)
 
 Just about everything that can work, works: Audio, boot chime, keyboard (+ backlight), touchpad, GPU Acceleration, brightness controls, battery readout, USB
